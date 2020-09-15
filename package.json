@@ -1,0 +1,26 @@
+{
+  "name": "cdn-action",
+  "version": "1.0.0",
+  "description": "A github action to automatically upload and replace images with cloudinary cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudanbabar/cdn-action.git"
+  },
+  "keywords": [
+    "cdn",
+    "github",
+    "action",
+    "cloudinary",
+    "optimization"
+  ],
+  "author": "krypton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhusudanbabar/cdn-action/issues"
+  },
+  "homepage": "https://github.com/madhusudanbabar/cdn-action#readme"
+}
